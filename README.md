@@ -1,4 +1,8 @@
 ## Hi there 👋
+<p align="center">
+  👋 Hi! I'm team-affixe — a developer by passion. I love breaking down complexity into clear, intuitive code.
+  <br /><br />
+</p>
 
 <!--
 **team-affixe/team-affixe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
