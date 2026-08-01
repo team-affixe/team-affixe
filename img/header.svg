@@ -1,0 +1,66 @@
+<svg
+  width="854"
+  height="150"
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 854 150"
+>
+  <style>
+    .title {
+      font-size: 48px;
+      font-weight: 700;
+      font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;
+      animation: fadeIn 1.2s ease-in-out forwards;
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+  </style>
+
+  <g transform="translate(427, 75) scale(1, 1) translate(-427, -75)">
+    <!-- Welle 1 -->
+    <path fill="#4f7cff" opacity="0.45">
+      <animate
+        attributeName="d"
+        dur="18s"
+        repeatCount="indefinite"
+        keyTimes="0;0.5;1"
+        keySplines="0.2 0 0.2 1;0.2 0 0.2 1"
+        values="
+          M0 0L0 80Q213.5 120 427 85T854 110L854 0Z;
+          M0 0L0 95Q213.5 90 427 110T854 95L854 0Z;
+          M0 0L0 80Q213.5 120 427 85T854 110L854 0Z
+        "
+      />
+    </path>
+
+    <!-- Welle 2 -->
+    <path fill="#4f7cff" opacity="0.35">
+      <animate
+        attributeName="d"
+        dur="18s"
+        begin="-9s"
+        repeatCount="indefinite"
+        keyTimes="0;0.5;1"
+        keySplines="0.2 0 0.2 1;0.2 0 0.2 1"
+        values="
+          M0 0L0 90Q213.5 130 427 100T854 120L854 0Z;
+          M0 0L0 110Q213.5 70 427 80T854 100L854 0Z;
+          M0 0L0 90Q213.5 130 427 100T854 120L854 0Z
+        "
+      />
+    </path>
+  </g>
+
+  <!-- Text -->
+  <text
+    text-anchor="middle"
+    alignment-baseline="middle"
+    x="50%"
+    y="32%"
+    class="title"
+    fill="#124658"
+  >
+    Timon Lex
+  </text>
+</svg>
