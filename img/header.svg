@@ -22,7 +22,7 @@
     <path fill="#4f7cff" opacity="0.45">
       <animate
         attributeName="d"
-        dur="18s"
+        dur="13s"
         repeatCount="indefinite"
         keyTimes="0;0.5;1"
         keySplines="0.2 0 0.2 1;0.2 0 0.2 1"
@@ -38,7 +38,7 @@
     <path fill="#4f7cff" opacity="0.35">
       <animate
         attributeName="d"
-        dur="18s"
+        dur="13s"
         begin="-9s"
         repeatCount="indefinite"
         keyTimes="0;0.5;1"
