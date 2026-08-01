@@ -1,4 +1,4 @@
-![Header](header.svg)
+![Header](img/header.svg)
 # 🧠 team-affixe — Building Interfaces for Intelligent Systems
 
 ## 🚀 Über mich
