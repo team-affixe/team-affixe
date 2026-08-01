@@ -1,8 +1,8 @@
 ![Header](img/header.svg)
-# 🧠 team-affixe — Building Interfaces for Intelligent Systems
+# 🧠 Timon Lex — Building Interfaces for Intelligent Systems
 
 ## 🚀 Über mich
-Hi, ich bin **team-affixe**, Entwickler mit Fokus auf **AI‑Interfaces**, **Creative Coding**, **3D‑Animation**, **Audio‑Engineering** und **Microcontroller‑Prototyping**.  
+Hi, ich bin **Timon Lex**, Entwickler mit Fokus auf **AI‑Interfaces**, **Creative Coding**, **3D‑Animation**, **Audio‑Engineering** und **Microcontroller‑Prototyping**.  
 Ich liebe es, komplexe technische Systeme in **intuitive, elegante User‑Erlebnisse** zu verwandeln.
 
 Aktuell arbeite ich daran, ein **User‑Interface für einen AI‑Agenten** zu entwickeln — ein Projekt, das Design, Interaktion, Automatisierung und KI‑Logik vereint.
